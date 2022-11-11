@@ -4,7 +4,8 @@ lst=[2,5,"reshma",5.8,0.6]
 # #indexing
 # #forward and backward
 print(lst[2])        #forward indexing
-print(lst[-5])       #backward indexing
+print(lst[-5])    #backward indexing
+print(lst[-2])
 print(lst[0:5:1])    #slicing method
 print(lst[::-1])     #reverse slicing
 lst[2]="razik"       #for replacing the value at an index

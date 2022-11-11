@@ -89,3 +89,5 @@ print("NAMES ENDING WITH LETTER 'l':")
 for i in rows:
     print(i[0],i[1],i[2],i[3],i[4])
 db.commit()
+
+

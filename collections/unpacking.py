@@ -5,7 +5,7 @@
 # Example
 # Unpack a list:
 
-fruits = ["apple", "banana", "cherry","plum","avocado"]
+fruits = ["apple", "banana","cherry","plum","avocado"]
 u, v, x, y, z = fruits
 print(u)
 print(v)
